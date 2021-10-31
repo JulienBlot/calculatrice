@@ -3,7 +3,7 @@
 //  Calculatrice
 //
 //  Created by Julien Blot on 09/04/2017.
-//  Copyright © 2017 Blot Julien. All rights reserved even to kill you. =P (joke)
+//  Copyright © 2017 Blot Julien. All rights reserved.
 
 
 import Foundation
